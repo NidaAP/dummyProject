@@ -1,1 +1,1 @@
-HI, it is an example for open source project - andre branch
+Hello, it is an example for open source project - Class branch
